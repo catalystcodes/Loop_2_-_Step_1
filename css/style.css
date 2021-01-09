@@ -83,7 +83,6 @@ h1 {
 .img2 {
     margin-bottom: 9rem;
     padding: 2rem;
-    /* padding-top: 2rem; */
     background-color: #ecb9b8;
 }
 
@@ -126,5 +125,4 @@ button:hover {
     margin-top: -0.4rem;
     cursor: pointer;
     transition: 0.8s;
-    /* margin-bottom: 2rem; */
 }
